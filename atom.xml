@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://yokowinds.github.io/octopressblog/atom.xml" rel="self"/>
+  <link href="http://yokowinds.github.io/octopressblog/"/>
+  <updated>2015-11-02T22:03:23+08:00</updated>
+  <id>http://yokowinds.github.io/octopressblog/</id>
+  <author>
+    <name><![CDATA[yokowinds]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello-octopress]]></title>
+    <link href="http://yokowinds.github.io/octopressblog/blog/2015/11/01/hello-octopress/"/>
+    <updated>2015-11-01T21:48:33+08:00</updated>
+    <id>http://yokowinds.github.io/octopressblog/blog/2015/11/01/hello-octopress</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>

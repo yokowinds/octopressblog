@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://yokowinds.github.io/octopressblog/sitemap.xml 
